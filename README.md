@@ -1,11 +1,8 @@
-
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+&lt;img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34"&gt;
 
 ## 栀子
 
 热爱编程，为变得更优秀而努力
-
-
 
 ### Github 活跃度
 
@@ -14,3 +11,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjiu0111&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjiu0111&layout=compact&langs_count=6)
+
+![demo](./demo.gif)
