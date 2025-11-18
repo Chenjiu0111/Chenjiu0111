@@ -1,7 +1,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—栀子
+## 栀子
 
 热爱编程，为变得更优秀而努力
 
