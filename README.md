@@ -9,6 +9,6 @@
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Chenjiu0111&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjiu0111&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjiu0111&layout=compact&langs_count=6)
+
 
 ![demo](./demo.gif)
