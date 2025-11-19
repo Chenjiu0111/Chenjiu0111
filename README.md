@@ -5,10 +5,18 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Chenjiu0111&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Chenjiu0111&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjiu0111&langs_count=6)
+<div style="display: flex; gap: 15px; width: 100%;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjiu0111&layout=compact&show_icons=true" 
+    alt="Top Languages" 
+    style="width: 42%; height: auto; object-fit: contain;"
+  >
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Chenjiu0111&layout=compact&show_icons=true" 
+    alt="GitHub Stats" 
+    style="width: 55%; height: auto; object-fit: contain;"
+  >
+</div>
 
 
 ![demo](./demo.gif)
